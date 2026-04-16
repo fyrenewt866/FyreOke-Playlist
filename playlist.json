@@ -1,4 +1,5 @@
-[
+{
+  "songs": [
 { "title": "Adele - Rolling in the Deep", "url": "https://www.youtube.com/watch?v=rYEDA3JcQqw" },
 { "title": "Adele - Someone Like You", "url": "https://www.youtube.com/watch?v=hLQ13WQQoQ0" },
 { "title": "Alanis Morissette – Hand In My Pocket", "url": "https://www.youtube.com/watch?v=BBKKG_oygZU&list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA&index=5" },
@@ -150,4 +151,5 @@
 { "title": "Walk The Moon - Shut Up and Dance", "url": "https://www.youtube.com/watch?v=71qqtDWFVl4" },
 { "title": "Whitney Houston - I Wanna Dance With Somebody", "url": "https://www.youtube.com/watch?v=eH3giaIzONA" }
 ]
+}
 
