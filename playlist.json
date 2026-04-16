@@ -1,9 +1,9 @@
 {
   "songs": [
-{ "title": "Adele - Rolling in the Deep", "url": "https://www.youtube.com/watch?v=rYEDA3JcQqw" },
-{ "title": "Adele - Someone Like You", "url": "https://www.youtube.com/watch?v=hLQ13WQQoQ0" },
-{ "title": "Alanis Morissette – Hand In My Pocket", "url": "https://www.youtube.com/watch?v=BBKKG_oygZU&list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA&index=5" },
-{ "title": "Alicia Keys - Girl On Fire", "url": "https://www.youtube.com/watch?v=rSWHCZoX2mE" },
+{ "title": "Adele - Rolling in the Deep", "url": "https://www.youtube.com/watch?v=rYEDA3JcQqw"},
+{ "title": "Adele - Someone Like You", "url": "https://www.youtube.com/watch?v=hLQ13WQQoQ0"},
+{ "title": "Alanis Morissette – Hand In My Pocket", "url": "https://www.youtube.com/watch?v=BBKKG_oygZU&list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA&index=5"},
+{ "title": "Alicia Keys - Girl On Fire", "url": "https://www.youtube.com/watch?v=rSWHCZoX2mE"},
 { "title": "Alicia Keys - If I Ain't Got You", "url": "https://www.youtube.com/watch?v=M5Q0eiMzup0" },
 { "title": "American Authors -  Best Day of My Life", "url": "https://www.youtube.com/watch?v=len7eibsxmw&list=PLMxSf6rD4bvzFXWoptVaYf0QJKK5-Beet&index=61" },
 { "title": "Amy Winehouse - Back to Black", "url": "https://www.youtube.com/watch?v=nturlhtt7WA" },
@@ -150,6 +150,6 @@
 { "title": "Vance Joy - Riptide", "url": "https://www.youtube.com/watch?v=XWq1hK6XtjU" },
 { "title": "Walk The Moon - Shut Up and Dance", "url": "https://www.youtube.com/watch?v=71qqtDWFVl4" },
 { "title": "Whitney Houston - I Wanna Dance With Somebody", "url": "https://www.youtube.com/watch?v=eH3giaIzONA" }
-]
+  ]
 }
 
